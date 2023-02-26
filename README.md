@@ -17,7 +17,7 @@ I am constantly striving to learn new things and improve my skills, and my GitHu
 - 🌱 I’m currently learning **Express.js, MongoDB**
 - 👨‍💻 All of my projects are available at [https://github.com/Deep-Dey](https://github.com/Deep-Dey)
 - 💬 Ask me about **Angular, Python3, Flask, Tkinter, Php, PyTorch**
-- 📫 How to reach me **deepdey20998@gmil.com**
+- 📫 How to reach me **deepdey20998@gmail.com**
 - 📄 Know about me [https://deepdey.tech](https://deepdey.tech)
 
 
