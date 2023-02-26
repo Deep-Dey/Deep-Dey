@@ -22,6 +22,6 @@ I am constantly striving to learn new things and improve my skills, and my GitHu
 - 📄 Know about me [https://deepdey.tech](https://deepdey.tech)
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=deep-dey&show_icons=true&locale=en" alt="deep-dey" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=deep-dey&show_icons=true&locale=en&theme=transparent" alt="deep-dey" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deep-dey&show_icons=true&locale=en&layout=compact" alt="deep-dey" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deep-dey&show_icons=true&locale=en&layout=compact&theme=transparent" alt="deep-dey" /></p>
