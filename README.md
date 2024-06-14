@@ -19,7 +19,7 @@ I am constantly striving to learn new things and improve my skills, and my GitHu
 - 👨‍💻 All of my projects are available at [https://github.com/Deep-Dey](https://github.com/Deep-Dey)
 - 💬 Ask me about **Angular, Python3, Flask, Tkinter, Php, PyTorch**
 - 📫 How to reach me **deepdey20998@gmail.com**
-- 📄 Know about me [https://deepdey.tech](https://deepdey.tech)
+- 📄 Know about me [https://deepdey.tech](https://deepdey.in)
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=deep-dey&show_icons=true&locale=en&theme=transparent" alt="deep-dey" /></p>
